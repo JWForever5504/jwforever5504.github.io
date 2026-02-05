@@ -1,13 +1,12 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-layout: home
-title: "Home"
-permalink: /home
+layout: post
+title:  "Age of Berk"
+post_url: ageofberk
 ---
 
+Age of Berk was my first project with a team. I was the main programmer. The rest of the team made models, textures, and animations. I put them in a resource pack and made the behavior pack. I made blocks, entities, items, structures, and more using both JSON and JavaScript.
 
+I joined in Janurary of 2024. I left in November of 2025 when I realized many of the resources I was provided were stolen. Despite much of the content of the add-on being stolen, my work was my own and remains some of my best.
 
 <iframe width="857" height="490" src="https://www.youtube.com/embed/s8MyZXrGBJA" title="Eel Demonstration" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <iframe width="857" height="472" src="https://www.youtube.com/embed/h8h8H-669vo" title="Dragon Horn Menu" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
